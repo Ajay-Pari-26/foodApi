@@ -1,0 +1,12 @@
+in\ajaypari\foodiesapi\FoodiesapiApplication.class
+in\ajaypari\foodiesapi\service\FoodServiceImpl.class
+in\ajaypari\foodiesapi\config\AWSConfig.class
+in\ajaypari\foodiesapi\entity\FoodEntity.class
+in\ajaypari\foodiesapi\io\FoodRequest.class
+in\ajaypari\foodiesapi\repository\FoodRepository.class
+in\ajaypari\foodiesapi\controller\FoodController.class
+in\ajaypari\foodiesapi\service\FoodService.class
+in\ajaypari\foodiesapi\io\FoodResponse$FoodResponseBuilder.class
+in\ajaypari\foodiesapi\entity\FoodEntity$FoodEntityBuilder.class
+in\ajaypari\foodiesapi\io\FoodRequest$FoodRequestBuilder.class
+in\ajaypari\foodiesapi\io\FoodResponse.class
